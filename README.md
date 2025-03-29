@@ -1,6 +1,7 @@
-## 关于
-我不是脚本作者，但这个太有能了需要archive。
+## About
 
-### 作用
+I am not the script author, but this is incredibly powerful and deserves to be archived. 
 
-.js只能给出一种半自动化的办法，每次只能删除一页面，用法是用网页转到最旧的页面然后在控制栏中copy and paste脚本。
+### Function
+
+The .js script provides only a semi-automated method—it can delete one page of your Zhihu Answer at a time. To use it, you have to manually navigate the webpage to the oldest page of your answer page, right click on your mouse switch to the inspect panel then copy and paste the script into the console.
